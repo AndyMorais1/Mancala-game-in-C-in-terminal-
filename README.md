@@ -1,1 +1,0 @@
-# Mancala-game-in-C-in-terminal-
